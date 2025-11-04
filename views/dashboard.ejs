@@ -55,10 +55,11 @@
     <ul>
       <% notes.forEach(note => { %>
         <li>
-          <div>
-            <strong><%= note.title %></strong> - <%= note.description %>
+          <div class="bloock">
+            <strong><%= note.title %></strong>
           </div>
-          <div>
+          <div class="btns">
+            <p> <%= note.description %></p>
             <a href="/notes/edit/<%= note._id %>">Edit</a>
             <form method="POST" action="/notes/delete/<%= note._id %>?_method=DELETE">
               <button type="submit">Delete</button>
