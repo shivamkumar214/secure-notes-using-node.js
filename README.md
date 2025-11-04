@@ -23,7 +23,7 @@ Other Tools: dotenv, cookie-parser, method-override
 
 # 📝 Notes App (Node.js + MongoDB + JWT Authentication)
 
-[![Live Demo](https://img.shields.io/badge/🌐_View%20Live%20Website-blue?style=for-the-badge)](https://secure-notes-backend-5.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/🌐_View%20Live%20Website-blue?style=for-the-badge)](https://secure-notes-using-node-js.onrender.com/)
 
 
 📁 Project Structure
